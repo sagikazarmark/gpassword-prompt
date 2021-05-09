@@ -3,9 +3,11 @@
 `gpassword-prompt` is a simple GUI application that asks for a password and then prints it to stdout.
 
 
-## Usage
+## Installation
 
-TBD
+```bash
+go install github.com/sagikazarmark/gpassword-prompt
+```
 
 
 ## License
